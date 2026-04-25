@@ -95,8 +95,8 @@ Sou um estudante movido pela curiosidade e pela vontade de transformar ideias em
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Felipe-Marxvs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Felipe-Marxvs@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@0Felipe-Marx-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0Felipe-Marx/)
+[![Email](https://img.shields.io/badge/Email-felipemarxvs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipemarxvs@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@0felipemarx-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0felipemarx/)
 
 </div>
 
