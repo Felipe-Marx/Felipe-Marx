@@ -78,14 +78,14 @@ Sou um estudante movido pela curiosidade e pela vontade de transformar ideias em
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=felipemarx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemarx&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Felipe-Marx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Marx&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![Snake animation](https://github.com/felipemarx/felipemarx/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Felipe-Marx/Felipe-Marx/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
